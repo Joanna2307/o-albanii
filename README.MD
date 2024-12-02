@@ -15,6 +15,6 @@ As a person living in Albania, I am being asked often if Albania is worth visiti
 
 ## Contact me:
 
-If you ahve any additional questions, feel free to contact me below:
+If you have any additional questions, feel free to contact me below:
 
 **My e-mail address**: [joanna.gorniak.00@gmail.com](mailto:joanna.gorniak.00@gmail.com)
