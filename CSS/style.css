@@ -1,0 +1,107 @@
+html{
+    box-sizing: border-box;
+}
+*,
+::after,
+::before{
+    box-sizing: inherit;
+}
+.body{
+    font-family: "Roboto",sans-serif;
+    font-size: 20px;
+    text-align: left;
+    padding: 20px;
+    margin: auto;
+    max-width: 1000px;
+    background-color: beige;
+}
+.mainLine{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    padding: 20px;
+    background-color: rgb(153, 126, 106);
+    font-size: 50px;
+    font-weight: bold;
+text-align: center;
+
+}
+
+.link{
+
+    color: blue;
+    text-decoration: underline;
+    
+}
+.link:visited{
+    color: black
+}
+.link:focus{
+    outline: 1px solid currentColor;
+}
+.link:hover{
+    color: aquamarine;
+    border-color: 1px solid;
+}
+.link:active{
+    color: red}
+
+
+.listHeader{
+    font-weight: bold;
+    margin: 20px;
+    text-align: center;
+    font-size: 25px;
+}
+
+.frame{
+    border: 1px solid black;
+    border-radius: 25px;
+    padding: 20px;
+    margin: 50px auto;
+    max-width: 500px;
+    max-height: 1000px;
+    box-shadow: 5px 5px 15px 15px saddlebrown;
+
+}
+.listStyle{
+    list-style-type:decimal;
+}
+.table{
+    border-collapse: collapse;
+    margin: 0 auto;
+}
+.caption{
+    margin: 20px;
+    font-weight:bold;
+    text-decoration: underline;
+
+}
+
+.tableHeader{
+        border: 1px solid black;
+        padding: 10px;
+        text-align: center;
+        background-color:rgba(132, 47, 47, 0.248);
+}
+.tableColumn{
+    border: 1px solid black;
+    padding: 10px;
+    text-align: center;
+    background-color: rgba(132, 47, 47, 0.248);
+}
+.cell{
+    border: 1px solid black;
+    padding: 10px;
+    text-align: center;
+    background-color: lightgray;
+}
+.remove{
+    display:none;
+}
+
+
+
+
+
+
+

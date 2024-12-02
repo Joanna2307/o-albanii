@@ -1,0 +1,25 @@
+.section{
+max-width: 900px;
+background-color: rgb(242, 224, 197);
+box-shadow: 2px 2px 10px rgb(187, 187, 204);
+padding: 20px;
+margin: 20px auto;
+}
+.section__header{
+    background-color: rgb(153, 126, 106);
+    font-size: 30px;
+    padding: 15px;
+    margin: auto;
+    font-weight: bold;
+}
+.section--dark{
+background-color: rgb(88, 79, 65);
+}
+.section__list{
+    font-weight: normal;
+    padding: 10px;
+}
+.section__list--bold{
+    font-weight: bold;
+}
+
