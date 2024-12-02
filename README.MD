@@ -9,9 +9,9 @@ As a person living in Albania, I am being asked often if Albania is worth visiti
 3. Touristic attractions and prices
 
 ## Technologies used while creating this site:
-1. HTML - structures web content 
-2. CSS - styles the site 
-3. Java Script - adds interactivity
+1. **HTML** - structures web content 
+2. **CSS** - styles the site 
+3. **Java Script** - adds interactivity
 
 ## Contact me:
 
